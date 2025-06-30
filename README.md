@@ -25,10 +25,7 @@ Los notebooks `4-EDA.ipynb` y `5-modeling.ipynb` pueden ser ejecutados directame
 
 ### Entorno de ejecución
 
-Para facilitar la ejecución del proyecto, se incluye un archivo `environment.yml` que define el entorno de Anaconda con todas las librerías necesarias. Puedes crear el entorno con el siguiente comando:
-
-```bash
-conda env create -f environment.yml
+Para facilitar la ejecución del proyecto, se incluye un archivo `environment.yml` que define el entorno de Anaconda con todas las librerías necesarias. 
 
 ---
 
