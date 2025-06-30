@@ -23,6 +23,13 @@ Los datos crudos necesarios para reproducir todo el flujo de trabajo pueden obte
 
 Los notebooks `4-EDA.ipynb` y `5-modeling.ipynb` pueden ser ejecutados directamente utilizando los archivos de datos ya incluidos en este repositorio. Esto permite llevar a cabo tanto el análisis exploratorio como el entrenamiento de modelos sin necesidad de reprocesar desde cero.
 
+### Entorno de ejecución
+
+Para facilitar la ejecución del proyecto, se incluye un archivo `environment.yml` que define el entorno de Anaconda con todas las librerías necesarias. Puedes crear el entorno con el siguiente comando:
+
+```bash
+conda env create -f environment.yml
+
 ---
 
 Este trabajo está diseñado para ser modular y fácil de seguir, facilitando la comprensión del flujo completo desde los datos en bruto hasta modelos predictivos.
