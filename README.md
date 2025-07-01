@@ -16,8 +16,8 @@ Este repositorio contiene un flujo de trabajo completo para el análisis y model
 
 Los datos crudos necesarios para reproducir todo el flujo de trabajo pueden obtenerse desde las siguientes fuentes abiertas:
 
-- [NSIDC - NSIDC-0756 Antarctic Ice Land Mask](https://nsidc.org/data/au_land/versions/1#anchor-2)
-- Fuente adicional (aún por confirmar): `hbjeankdsndp`
+- https://nsidc.org/data/au_land/versions/1#anchor-3
+- https://gportal.jaxa.jp/gpr/assets/mng_upload/GCOM-W/AMSR2_Higher_Level_Product_Format_EN.pdf
 
 ### Reproducibilidad
 
