@@ -14,6 +14,7 @@ Este repositorio contiene un flujo de trabajo completo para el análisis y model
 
 ### Datos
 
+
 Los datos crudos necesarios para reproducir todo el flujo de trabajo pueden obtenerse desde las siguientes fuentes abiertas:
 
 - https://nsidc.org/data/au_land/versions/1#anchor-3
@@ -21,7 +22,10 @@ Los datos crudos necesarios para reproducir todo el flujo de trabajo pueden obte
 
 ### Reproducibilidad
 
-Los notebooks `4-EDA.ipynb` y `5-modeling.ipynb` pueden ser ejecutados directamente utilizando los archivos de datos ya incluidos en este repositorio. Esto permite llevar a cabo tanto el análisis exploratorio como el entrenamiento de modelos sin necesidad de reprocesar desde cero.
+Los notebooks 4-EDA.ipynb y 5-modeling.ipynb pueden ejecutarse directamente una vez que los archivos de datos estén disponibles localmente. Dado que estos archivos son demasiado pesados para ser incluidos directamente en el repositorio, deben descargarse manualmente desde el siguiente enlace:
+
+🔗 [Descargar datos desde Google Drive](https://drive.google.com/tu-enlace)
+
 
 ### Entorno de ejecución
 
